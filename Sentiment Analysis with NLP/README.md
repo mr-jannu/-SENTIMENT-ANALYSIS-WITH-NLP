@@ -29,5 +29,3 @@ The dataset contains two columns:
 ## Conclusion
 The model achieved strong performance, demonstrating that TF-IDF with Logistic Regression is effective for basic sentiment analysis tasks.
 
-## Author
-Generated with the help of ChatGPT
